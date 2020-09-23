@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36037567077",
+    "firebase_url": "https://todos-c300d.firebaseio.com",
+    "project_id": "todos-c300d",
+    "storage_bucket": "todos-c300d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36037567077:android:3bf3c6abb92f8ace0b5c8c",
+        "android_client_info": {
+          "package_name": "com.caio.todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36037567077-ap368f7udr06svdsap9b4m852jm4rne9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caio.todos",
+            "certificate_hash": "57bc54168ee87e72de498a706db2f16026af4704"
+          }
+        },
+        {
+          "client_id": "36037567077-p5epijfforq6ir4us0rb69hn6bs5oc6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkHXgxsg6I1PzGyk24dzPFIVuDcskW65w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36037567077-p5epijfforq6ir4us0rb69hn6bs5oc6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
